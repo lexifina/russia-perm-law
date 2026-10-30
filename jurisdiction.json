@@ -1,0 +1,11 @@
+{
+  "path": "ru-per",
+  "code": "RU-PER",
+  "name": "Perm Krai",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-perm-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
