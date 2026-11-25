@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:34:00Z",
+ "generated": "2026-11-25T07:01:50Z",
  "latest": {
   "pravo-perm|russia/perm/acts": {
    "attempt": 1,
@@ -13,104 +13,42 @@
    },
    "census": {
     "checked": 1568,
-    "current": 1545,
+    "current": 1568,
     "gone": 0,
-    "held": 1545,
-    "newest_in_repo": "2026-09-15",
-    "pending": 23,
-    "repo": 1545,
+    "held": 1568,
+    "newest_in_repo": "2026-11-16",
+    "pending": 0,
+    "repo": 1568,
     "source_in_scope": 1568
    },
-   "check_id": "ru-pravo-perm-20261124T142916Z",
-   "commits": {
-    "count": 4,
-    "from": "a5978753a05e8339b69437076ca812f8b72cdfa7",
-    "to": "7816e9aa57fb40271f0fd1cb53c59e43b725e59b"
-   },
+   "check_id": "ru-pravo-perm-20261125T062520Z",
+   "commits": null,
    "corpus": "russia/perm/acts",
    "error": null,
-   "finished": "2026-11-24T14:33:59Z",
+   "finished": "2026-11-25T06:26:11Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region59: 1568 law-type documents listed (every page read); 1545 held here; 23 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region59: 1568 law-type documents listed (every page read); 1568 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "5900202611060001",
-     "5900202611120001",
-     "5900202611120002",
-     "5900202611120003",
-     "5900202611160004",
-     "5900202611160005",
-     "5900202611160006",
-     "5900202611160007",
-     "5900202611160008",
-     "5900202611160009",
-     "5900202611160010",
-     "5900202611160011",
-     "5900202611160012",
-     "5900202611160013",
-     "5900202611160014",
-     "5900202611160015",
-     "5900202611160016",
-     "5900202611160017",
-     "5900202611160018",
-     "5900202611160019",
-     "5900202611160020",
-     "5900202611160021",
-     "5900202611160022"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 12,
+   "requests": 11,
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "5900202611060001",
-     "5900202611120001",
-     "5900202611120002",
-     "5900202611120003",
-     "5900202611160004",
-     "5900202611160005",
-     "5900202611160006",
-     "5900202611160007",
-     "5900202611160008",
-     "5900202611160009",
-     "5900202611160010",
-     "5900202611160011",
-     "5900202611160012",
-     "5900202611160013",
-     "5900202611160014",
-     "5900202611160015",
-     "5900202611160016",
-     "5900202611160017",
-     "5900202611160018",
-     "5900202611160019",
-     "5900202611160020",
-     "5900202611160021",
-     "5900202611160022"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1568 law-type documents in block region59; newest published 2026-11-16",
    "source": "pravo-perm",
-   "started": "2026-11-24T14:29:16Z",
+   "started": "2026-11-25T06:25:20Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 3,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
