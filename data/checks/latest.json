@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:01:50Z",
+ "generated": "2026-11-26T06:18:59Z",
  "latest": {
   "pravo-perm|russia/perm/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1568,
     "source_in_scope": 1568
    },
-   "check_id": "ru-pravo-perm-20261125T062520Z",
+   "check_id": "ru-pravo-perm-20261126T055013Z",
    "commits": null,
    "corpus": "russia/perm/acts",
    "error": null,
-   "finished": "2026-11-25T06:26:11Z",
+   "finished": "2026-11-26T05:50:53Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region59: 1568 law-type documents listed (every page read); 1568 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1568 law-type documents in block region59; newest published 2026-11-16",
    "source": "pravo-perm",
-   "started": "2026-11-25T06:25:20Z",
+   "started": "2026-11-26T05:50:13Z",
    "unexplained": 0,
    "update": {
     "parts": []
