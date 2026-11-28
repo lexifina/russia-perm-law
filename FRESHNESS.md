@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Perm Krai: Official Internet Portal of Legal Information (region59) · `russia/perm/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 05:46 UTC**.
-- Acts held here: 1 568; current at the source: 1 568; changed at the source since the version held here: 0; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-28 05:56 UTC**.
+- Acts held here: 1 568; current at the source: 1 568; changed at the source since the version held here: 3; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).

@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:11:06Z",
+ "generated": "2026-11-28T06:25:25Z",
  "latest": {
   "pravo-perm|russia/perm/acts": {
    "attempt": 1,
@@ -12,26 +12,34 @@
     "sampled": 2
    },
    "census": {
-    "checked": 1568,
+    "checked": 1571,
     "current": 1568,
     "gone": 0,
     "held": 1568,
     "newest_in_repo": "2026-11-16",
-    "pending": 0,
+    "pending": 3,
     "repo": 1568,
-    "source_in_scope": 1568
+    "source_in_scope": 1571
    },
-   "check_id": "ru-pravo-perm-20261127T054601Z",
-   "commits": null,
+   "check_id": "ru-pravo-perm-20261128T055502Z",
+   "commits": {
+    "count": 2,
+    "from": "fd787d3cec534108576f07d81c166e1c80473aef",
+    "to": "d2a4a9149fd0f77011e4e2a15439b2e844f475b4"
+   },
    "corpus": "russia/perm/acts",
    "error": null,
-   "finished": "2026-11-27T05:46:40Z",
+   "finished": "2026-11-28T05:56:02Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region59: 1568 law-type documents listed (every page read); 1568 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "no-change",
+   "note": "publication.pravo.gov.ru, block region59: 1571 law-type documents listed (every page read); 1568 held here; 3 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
    "published": {
-    "added": [],
+    "added": [
+     "5900202611270002",
+     "5900202611270003",
+     "5900202611270004"
+    ],
     "changed": [],
     "removed": []
    },
@@ -39,16 +47,30 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [],
+    "added": [
+     "5900202611270002",
+     "5900202611270003",
+     "5900202611270004"
+    ],
     "changed": [],
     "removed": []
    },
-   "snapshot": "1568 law-type documents in block region59; newest published 2026-11-16",
+   "snapshot": "1571 law-type documents in block region59; newest published 2026-11-27",
    "source": "pravo-perm",
-   "started": "2026-11-27T05:46:01Z",
+   "started": "2026-11-28T05:55:02Z",
    "unexplained": 0,
    "update": {
-    "parts": []
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261128-001.json"
+    ]
    },
    "verify": {
     "cycle_days": 1,
@@ -57,7 +79,7 @@
     "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
     "ok": true,
     "swept": 13,
-    "versions_checked": 360,
+    "versions_checked": 361,
     "versions_differ": 0
    }
   }
