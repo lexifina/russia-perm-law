@@ -3336,12 +3336,21 @@
     },
     {
      "from": "2026-11-16",
-     "to": null,
-     "status": "as captured",
+     "to": "2026-11-26",
+     "status": "replaced",
      "text_as_of": null,
      "units": 98,
      "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region59",
      "sha256": "ba056e7698212f49aa9b7f07ff5c24fbe654355f498a9e8d6f27abeb5a99c623"
+    },
+    {
+     "from": "2026-11-27",
+     "to": null,
+     "status": "as captured",
+     "text_as_of": null,
+     "units": 101,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region59",
+     "sha256": "b531237d6bd29bdc3f540419a699bf6137b6137c8f8e005c713d7212002ecad4"
     }
    ]
   }

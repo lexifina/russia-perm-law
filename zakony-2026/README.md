@@ -1,6 +1,6 @@
 # Perm Krai: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 24 versions, from 2026-01-28 (latest in force: 2026-11-16) · <http://publication.pravo.gov.ru/documents/block/region59>
+Законы 2026 · 25 versions, from 2026-01-28 (latest in force: 2026-11-27) · <http://publication.pravo.gov.ru/documents/block/region59>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -22,6 +22,8 @@
 | Закон № 23-ПК | [23-pk.md](23-pk.md) | 1 | 2026-11-16 |
 | Закон № 3-ПК | [3-pk.md](3-pk.md) | 1 | 2026-11-12 |
 | Закон № 4-ПК | [4-pk.md](4-pk.md) | 1 | 2026-11-16 |
+| Закон № 43-ПК | [43-pk.md](43-pk.md) | 1 | 2026-11-27 |
+| Закон № 46-ПК | [46-pk.md](46-pk.md) | 1 | 2026-11-27 |
 | Закон № 494-ПК | [494-pk.md](494-pk.md) | 1 | 2026-01-30 |
 | Закон № 495-ПК | [495-pk.md](495-pk.md) | 1 | 2026-02-04 |
 | Закон № 496-ПК | [496-pk.md](496-pk.md) | 1 | 2026-02-11 |
@@ -99,6 +101,7 @@
 | Закон № 567-ПК | [567-pk.md](567-pk.md) | 1 | 2026-09-10 |
 | Закон № 568-ПК | [568-pk.md](568-pk.md) | 1 | 2026-09-10 |
 | Закон № 6-ПК | [6-pk.md](6-pk.md) | 1 | 2026-11-16 |
+| Закон № 62-ПК | [62-pk.md](62-pk.md) | 1 | 2026-11-27 |
 | Закон № 7-ПК | [7-pk.md](7-pk.md) | 1 | 2026-11-16 |
 | Закон № 8-ПК | [8-pk.md](8-pk.md) | 1 | 2026-11-12 |
 | Закон № 9-ПК | [9-pk.md](9-pk.md) | 1 | 2026-11-06 |

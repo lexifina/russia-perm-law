@@ -1,6 +1,6 @@
 # How this repository was made (Perm Krai)
 
-This file is written by the build on 2026-11-24, the day the source data was retrieved.
+This file is written by the build on 2026-11-28, the day the source data was retrieved.
 
 ## Sources
 
@@ -38,23 +38,23 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `zakony-2023` | Perm Krai: catalogue of the laws published in 2023 (facts only, no law text) | 32 | 2023-01-20 to 2023-12-22 |
 | `zakony-2024` | Perm Krai: catalogue of the laws published in 2024 (facts only, no law text) | 34 | 2024-01-29 to 2024-12-16 |
 | `zakony-2025` | Perm Krai: catalogue of the laws published in 2025 (facts only, no law text) | 27 | 2025-02-05 to 2025-12-15 |
-| `zakony-2026` | Perm Krai: catalogue of the laws published in 2026 (facts only, no law text) | 24 | 2026-01-28 to 2026-11-16 |
+| `zakony-2026` | Perm Krai: catalogue of the laws published in 2026 (facts only, no law text) | 25 | 2026-01-28 to 2026-11-27 |
 
-The build made 360 commits:
+The build made 361 commits:
 
 | Commits | Kind |
 | ---: | --- |
 | 13 | baseline texts where the record starts |
-| 347 | named laws, court decisions and treaties |
+| 348 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
 | 0 | corrections to the existing record |
 | 0 | printing or layout changes |
 
 Other counts:
-- 0 commits on the branch `future`: laws not yet in force on 2026-11-24.
+- 0 commits on the branch `future`: laws not yet in force on 2026-11-28.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 347 laws in the record.
-- 707 tags.
+- 348 laws in the record.
+- 709 tags.
 
 ## Dates
 
@@ -66,7 +66,7 @@ When a law gives no date of its own, the default rule applies: Catalogue entries
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `e96f17ff8fc77d0152949f27ee5c47b64bed181d8c1d391f8f30afe8178db5e3` (1542254 bytes).
+- Corpus: sha256 `44d9fe2a792924ec6d4aa46b9caa2e922f5f27007718cefa61053b07e8302166` (1636382 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
 - Python 3.14.0; git version 2.52.0.windows.1.
 
